@@ -175,7 +175,7 @@ The dashboard was designed to help users interactively explore the Uber dataset.
 - Filters by Time of Day, Fare Range, Day of Week  
 
 📄 [Download Dashboard](./uber-analysis-bigdata/Humure Enock (27394).pbix)
-[link of power bi on the drive](./https://drive.google.com/file/d/1UR0Ox1NvyKYodCBCCaMvzl95ze7KqkYK/view?usp=drive_link)
+[link of power bi on the drive](./https://drive.google.com/file/d/1UR0Ox1NvyKYodCBCCaMvzl95ze7KqkYK/view?usp=sharing)
 
 📸 Additional Visuals:  
 ![ EDA](./uber-analysis-bigdata/screenshots/combination of eda.png)  
