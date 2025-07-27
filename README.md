@@ -4,7 +4,7 @@ assignment of uber fares
 ## Uber Fares Dataset Analysis – INSY 8413
 
 **Course:** Introduction to Big Data Analytics  
-**Instructor:** Maniraguha Eric  
+**Instructor:** Maniraguha Eric 
 **Assignment Date:** July 23, 2025  
 **Name:** Humure Enock  
 **ID:** 27394  
@@ -33,7 +33,8 @@ This project is organized as follows:
 
 **Important Files**:
 - [Power BI Dashboard](./uber-analysis-bigdata/Humure Enock (27394).pbix)
-- [Python Notebook](./uber-analysis-bigdata/uber-dataset.ipynb)
+- Data/uber.csv
+- [Python Notebook](./Data/uber.csv)
 - 📂 [Cleaned Dataset](./uber-analysis-bigdata/Data/uber_enhanced.csv)
 
 ---
