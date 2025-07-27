@@ -34,8 +34,8 @@ This project is organized as follows:
 **Important Files**:
 - [Power BI Dashboard](./uber-analysis-bigdata/Humure Enock (27394).pbix)
 - Data/uber.csv
-- [Python Notebook](./Data/uber.csv)
-- 📂 [Cleaned Dataset](./uber-analysis-bigdata/Data/uber_enhanced.csv)
+- [Python Notebook](./uber-dataset.ipynb)
+- 📂 [Cleaned Dataset](./Data/uber_cleaned.csv)
 
 ---
 
@@ -56,7 +56,7 @@ The analysis combines **Python for data wrangling and exploration** with **Power
 To ensure high-quality analysis, the following approach was used:
 
 - **Data Source**: [Kaggle Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)  
-- **Cleaning & Transformation**: Handled using Python in [`uber-dataset.ipynb`](./uber-analysis-bigdata/uber-dataset.ipynb)  
+- **Cleaning & Transformation**: Handled using Python in [`uber-dataset.ipynb`](./uber-dataset.ipynb)  
 - **Analysis Tool**: Power BI for dynamic visual dashboards and python, visual studio
 
 🔧 **Steps followed**:
