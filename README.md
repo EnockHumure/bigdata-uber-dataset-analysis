@@ -32,10 +32,10 @@ assignment of uber fares
 This project is organized as follows:
 
 **Important Files**:
-- [Power BI Dashboard](./uber-analysis-bigdata/Humure Enock (27394).pbix)
+- [Power BI Dashboard](./Humure Enock (27394).pbix)
 - Data/uber.csv
 - [Python Notebook](./uber-dataset.ipynb)
-- 📂 [Cleaned Dataset](./Data/uber_cleaned.csv)
+- 📂 [Cleaned Dataset](./uber-dataset.ipynb)
 
 ---
 
