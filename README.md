@@ -176,10 +176,13 @@ The dashboard was designed to help users interactively explore the Uber dataset.
 
 📄 [Download Dashboard](./uber-analysis-bigdata/Humure Enock (27394).pbix)
 [link of power bi on the drive](./https://drive.google.com/file/d/1UR0Ox1NvyKYodCBCCaMvzl95ze7KqkYK/view?usp=sharing)
+link of my work folder: https://drive.google.com/drive/folders/150Gl6mQrmDSo75AqDsjvzIREg2vSYp8U
 
 📸 Additional Visuals:  
-![ EDA](./uber-analysis-bigdata/screenshots/combination of eda.png)  
-![power BI](./uber-analysis-bigdata/screenshots/power Bi combination.png)
+![ EDA](./<img width="3971" height="1619" alt="eda combination" src="https://github.com/user-attachments/assets/a105b87f-0965-4663-9f4b-9132baa906b3" />
+)  
+![power BI](./<img width="3804" height="1617" alt="power BI combination" src="https://github.com/user-attachments/assets/c4693569-30d2-40fa-afd3-0b847bcdb1ea" />
+)
 
 ---
 
